@@ -3,4 +3,4 @@ small app to capture color from the mic and change background color accordingly.
 
 Link to demo of app:
 
-https://codepen.io/AlexTaj21/pen/MxagzK
+https://codepen.io/AlexTaj21/full/MxagzK
